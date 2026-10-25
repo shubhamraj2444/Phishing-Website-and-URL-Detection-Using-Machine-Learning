@@ -1,7 +1,7 @@
 # Phishing Website & URL Detector Using Machine Learning
 
 **IBM SkillsBuild Cyber Security 2026**  
-**Student:** YourName
+**Student:** Shubham Raj 
 
 ## Overview
 This beginner-friendly project trains a Random Forest classifier to identify URLs that resemble phishing URLs based on features extracted from URL text. It uses the public PhiUSIIL dataset hosted by the UCI Machine Learning Repository.
